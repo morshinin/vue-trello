@@ -1,4 +1,6 @@
-# 136-vue-trello
+# Vue-trello
+
+Vue trello board clone
 
 ## Project setup
 ```
